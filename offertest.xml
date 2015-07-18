@@ -1,0 +1,34 @@
+<menu>
+	<item>
+		<id>1</id>
+		<offer>10% Off</offer>
+		<category>Food</category>
+		<company>Pizza Hut<company>
+		<validity>31/10/2015</validity>
+		<description>Single cheese topping</description>
+	</item>
+	<item>
+		<id>2</id>
+		<offer>Buy 1 Get 1</offer>
+		<category>Beverages</category>
+		<company>Pepsi<company>
+		<validity>1/9/2015</validity>
+		<description>This is the description</description>
+	</item>
+	<item>
+		<id>3</id>
+		<offer>Sale</offer>
+		<category>Fashion</category>
+		<company>Tommy Hilfiger<company>
+		<validity>2/9/2015</validity>
+		<description>Loads of Tshirts</description>
+	</item>
+	<item>
+		<id>4</id>
+		<offer>50% Discount</offer>
+		<category>Sunglasses</category>
+		<company>Ray Ban<company>
+		<validity>10/11/2015</validity>
+		<description>Avaiators , Wayfarers and stuff</description>
+	</item>
+</menu>
